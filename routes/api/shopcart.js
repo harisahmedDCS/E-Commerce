@@ -19,12 +19,12 @@ router.post('/:id', auth, async (req, res, next) => {
     const cards = await Card.findById(req.params.id);
     const user = await User.findById(req.user.id);
     // shopcart._id = cards.id;
-    cards.quantity = 2;
+
     cards.users = user.id;
     cards.name = user.name;
     cards.email = user.email;
     cards._id = new ObjectID();
-    cards.price = cards.price * cards.quantity;
+
     const cart = await shopcart.insertMany(cards);
     res.json(cart);
   } catch (err) {
