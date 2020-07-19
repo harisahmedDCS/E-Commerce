@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Shoes",
+    "price": 20,
+    "img": "/shoes.jpg"
+  },
+  {
+    "title": "Shirts",
+    "price": 30,
+    "img": "/shirts.jpg"
+  },
+  {
+    "title": "Tie",
+    "price": 25,
+    "img": "/tie.jpg"
+  },
+  {
+    "title": "LED",
+    "price": 40,
+    "img": "/led.jpg"
+  },
+  {
+    "title": "ipad",
+    "price": 50,
+    "img": "/ipad.jpg"
+  },
+  {
+    "title": "Cap",
+    "price": 20,
+    "img": "/cap.jpg"
+  }
+]
