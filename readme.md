@@ -20,8 +20,7 @@ npm run dev
 ```
 
 <video width="420" height="340" controls>
-  <source src="https://youtu.be/E3kcE2MkPwU" type="video/mp4">
-
+  <source href="https://youtu.be/E3kcE2MkPwU" type="video/mp4">
 </video>
 
 - <span style="color: purple"> Live demo </span>
