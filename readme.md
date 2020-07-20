@@ -19,8 +19,6 @@ npm install
 npm run dev
 ```
 
-<video width="420" height="340" controls>
-  <source src="./mern.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3kcE2MkPwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - <span style="color: purple"> Live demo </span>
