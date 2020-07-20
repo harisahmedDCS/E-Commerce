@@ -19,6 +19,6 @@ npm install
 npm run dev
 ```
 
-https://imgflip.com/gif/48ruoj
+<vedio src="./mern.mp4"/>
 
 - <span style="color: purple"> Live demo </span>
