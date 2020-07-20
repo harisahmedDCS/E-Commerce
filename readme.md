@@ -22,5 +22,5 @@ npm run dev
 <video width="420" height="340" controls>
   <source src="./mern.mp4" type="video/mp4">
 </video>
-P
+
 - <span style="color: purple"> Live demo </span>
