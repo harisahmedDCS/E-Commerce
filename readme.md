@@ -19,8 +19,6 @@ npm install
 npm run dev
 ```
 
-<video width="420" height="340" controls>
-  <source href="https://youtu.be/E3kcE2MkPwU" type="video/mp4">
-</video>
+<a>https://www.youtube.com/embed/E3kcE2MkPwU</a>
 
 - <span style="color: purple"> Live demo </span>
