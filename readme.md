@@ -19,6 +19,9 @@ npm install
 npm run dev
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3kcE2MkPwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video width="420" height="340" controls>
+  <source src="https://youtu.be/E3kcE2MkPwU" type="video/mp4">
+
+</video>
 
 - <span style="color: purple"> Live demo </span>
