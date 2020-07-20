@@ -19,6 +19,9 @@ npm install
 npm run dev
 ```
 
-<vedio src="./mern.mp4"/>
+<video width="320" height="240" controls>
+  <source src="./mern.wmv" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 - <span style="color: purple"> Live demo </span>
